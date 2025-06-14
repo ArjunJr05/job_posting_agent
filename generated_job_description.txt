@@ -1,0 +1,22 @@
+🌟 Exciting Opportunity for a Mid-Level Software Engineer! 🌟
+
+WhisprNet is seeking a passionate, skilled Software Engineer to join our dynamic team in San Francisco, CA (hybrid work environment). We are an innovative company dedicated to designing, developing, and installing software solutions. As part of our ongoing project, the successful candidate will play a key role in gathering user requirements, defining system functionality, and writing code in various languages.
+
+Our ideal candidate is well-versed in the software development life cycle (SDLC) from preliminary system analysis to tests and deployment. If you thrive on solving complex problems and are eager to make a tangible impact, this could be the perfect role for you!
+
+🌐 Location: San Francisco, CA
+💰 Salary: $100K–$140K (depending on experience)
+🕒 Work Mode: PART_TIME (hybrid)
+📅 Duration: Ongoing
+📝 Contract Type: Direct contract unless specified otherwise.
+
+To excel in this role, you'll need a solid background in software development and a Bachelor's degree in Computer Science or a related field. Familiarity with distributed systems is highly desirable. We are particularly interested in candidates who have experience working with our tech stack: Python, Microservices, Docker, and Kubernetes.
+
+Key Responsibilities:
+- Build scalable backend services
+- Design APIs
+- Write unit and integration tests
+
+If you're a proactive team player with strong communication skills, we would love to hear from you! Please don't hesitate to apply if you meet the requirements or have questions. Send your CV, salary expectations, and cover letter to [email address] today. We look forward to discussing this exciting opportunity with you!
+
+*Please note that WhisprNet is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

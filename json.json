@@ -1,0 +1,18 @@
+{
+  "company": "urn:li:company:123456",
+  "companyApplyUrl": "http://linkedin.com",
+  "description": "We are looking for a passionate Software Engineer to design, develop and install software solutions. Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages. Our ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment.",
+  "employmentStatus": "PART_TIME",
+  "externalJobPostingId": "1234",
+  "listedAt": 1440716666,
+  "jobPostingOperationType": "CREATE",
+  "title": "Software Engineer",
+  "location": "San Francisco, CA",
+  "workplaceTypes": ["hybrid"],
+  "skills_required": ["Python", "Microservices", "Docker", "Kubernetes"],
+  "experience_level": "Mid-Level",
+  "responsibilities": ["Build scalable backend services", "Design APIs", "Write unit and integration tests"],
+  "qualifications": ["Bachelor’s in CS or related", "Experience with distributed systems"],
+  "company_name": "WhisprNet",
+  "salary_range": "$100K-$140K"
+}
